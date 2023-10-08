@@ -1,0 +1,16 @@
+1 observe the webpage
+2 we observed 
+3 paragrah text font and bg is same
+4 heading font size same
+5 three bg images have same height and in fixed position
+6 in first page we observe
+7 bg image and foreground image are overlapping
+8 h1 tag
+9 bg image is slowing moving
+10 foreground image is moving fast relative to bg img
+wrapper good practice
+11 obviously foreground ko parallel image banana k line position absolute krni padegi ,absolute Matlab parent ancestor ke relative aur parent ancestor should be non sticky Matlab parent ancestor can be relative/sticky/fixed.
+12 objectfit cover se aspect ratio maintain rehti h
+13 layering wali cheese ko z index handle kata hai, ki cons cheer ko upar rkhna hai.
+14. Diff btw image tag and background image tag. 
+Babbar ne haha ek bar printout nikalke dekhna.
